@@ -14,10 +14,11 @@ The primary goal of this study is to implement the **4th-Order Runge-Kutta (RK4)
 * `results/`: Saved plots including time-series graphs and 3D phase portraits.
 * `requirements.txt`: List of necessary Python libraries (NumPy, Matplotlib).
 
-## Resources & References
-* **Primary Paper:** Hastings, A., & Powell, T. (1991). *Chaos in a Three-Species Food Chain*. Ecology, 72(3), 896-903.
+## Resources
+* **Mathematical Model:** [Three-Species Lotka-Volterra Model](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1025&context=mathfacpub) - University of Nebraska-Lincoln.
+* **Documentation:** [Systems of Differential Equations](https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Differential_Equations_(Adkins_and_Davidson)/07%3A_Systems_of_Differential_Equations/7.03%3A_Predator-Prey_Models) - LibreTexts Mathematics.
 * **Libraries:** `NumPy` for vector-based numerical integration and `Matplotlib` for 2D and 3D data visualization.
-* **Course Material:** Application of Numerical Methods for ODEs.
+* **Course Material:** Provided by professor McDonough.
 
 ## Implementation Plan & Timeline
 - [ ] **March 23:** Submit Project Proposal (GitHub Repository Setup).
@@ -31,4 +32,4 @@ The primary goal of this study is to implement the **4th-Order Runge-Kutta (RK4)
 * **Comparison Study:** Implement a simple Euler method to demonstrate through error-plotting why RK4 is the superior choice for this specific problem.
 
 ## Collaborators
-* **[Your Name]** - Solo Project
+* **[Jack Riegger]** 
