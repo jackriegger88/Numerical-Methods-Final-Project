@@ -15,4 +15,4 @@ Ensure you have Python 3.8+ installed. You will need `numpy` and `matplotlib`.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/jackriegger88/Numerical-Methods-Final-Project.git](https://github.com/jackriegger88/Numerical-Methods-Final-Project.git)
